@@ -1,0 +1,7 @@
+﻿```
+r!nick @TAG NİCK - Etiketlenen kullanıcların nickini değiştirir.
+r!erkek          - Etiketlenen kullanıcıya Baylar rolü verir.
+r!kadın          - Etiketlenen kullanıcıya Bayanlar rolü verir.
+r!oyla           - Oylama başlatır.
+Version 1.0
+```
