@@ -8,9 +8,9 @@ module.exports = (bot, member) => {
     .setFooter("İçin Oluşturuldu", member.user.avatarURL)
     .setTimestamp()
     .setImage(url='https://cdn.discordapp.com/attachments/646115125627191297/646305686057123840/giphy_5.gif')
- genel.send(`**:hg: Rise of the Devil Adlı Sunucumuza Hoşgeldin <@${member.user.id}> \n 
- :devil: Kaydının yapılması için sesli odaya gelip ses vermen gerekli. \n  
- :devil2: <@&642814764334186509> Rolündeki Yetkililer Seninle İlgilencektir.**`, embed);
+ genel.send(`**<:hg:669191375396536321> Rise of the Devil Adlı Sunucumuza Hoşgeldin <@${member.user.id}> \n 
+ <:devil:669191067244953603> Kaydının yapılması için sesli odaya gelip ses vermen gerekli. \n  
+ <:devil2:669191118218461195> <@&642814764334186509> Rolündeki Yetkililer Seninle İlgilencektir.**`, embed);
    
  }
  if(sıra){
