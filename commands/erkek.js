@@ -14,7 +14,7 @@ exports.run = (bot, message, args) => {
     .setColor(0xFF0000)
     .setFooter("İçin Oluşturuldu", message.author.avatarURL)
     .setTimestamp()
-    .setDescription("" + message.mentions.members.first() +"  ** Kişisinden** <@&642815868094513152> **Rolü Alındı** :devil2: ")
+    .setDescription("" + message.mentions.members.first() +"  ** Kişisinden** <@&642815868094513152> **Rolü Alındı** <:alnd:669193571970056220> ")
 
     message.channel.send(rolal);
 	
@@ -23,7 +23,7 @@ exports.run = (bot, message, args) => {
     .setColor(3066993)
     .setFooter("İçin Oluşturuldu", message.author.avatarURL)
     .setTimestamp()
-    .setDescription("" + message.mentions.members.first() +"  ** Kişisine** <@&626793343946457088> **Rolü Verildi** :devil2: ")
+    .setDescription("" + message.mentions.members.first() +"  ** Kişisine** <@&626793343946457088> **Rolü Verildi** <:verildi:669193618551996417> ")
 
     message.channel.send(rolver);
 		
