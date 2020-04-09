@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 module.exports = (bot, member) => {
- const genel = bot.channels.get('642814380932857859');
- const sıra = bot.channels.get('635092553338716190');
+ const genel = bot.channels.get('697822538507485304');
+ const sıra = bot.channels.get('697820359071891546');
  if(genel){
    const embed = new Discord.RichEmbed()
     .setColor(0xFF0000)
